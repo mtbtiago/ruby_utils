@@ -1,0 +1,53 @@
+problemes interface, intentem reproduir.  Indalecio apunta
+en Gervasio explica quines millores hi ha. en guillem diu que sa den Gervasio va m'es r[apida
+enlentiment ipad contra huawei. ens deixen una tauleta per comprovar velocitat
+tarda com a 3 segons contra ipad que 'es instantani
+en Gervasio mostra es canvis
+en Tancredo mostra problemes que li han passat. en concret un bloqueig provocat per es menu. suggeriment: llevar opci'o de mostrar menu des de es navbar
+sembla que es va acumulant amb comandes grosses i cada vegada va m'es lent
+Gervasio proposa canviar es sistema de carregar tarifes
+iphone sembla que es bloqueja moltes vegades. Gervasio diu que ho t'e present i en compte
+mitges caixes?
+preus, descompte i comentari encara no 'es a sf, est[a per fer
+mostrar es marge a mida que van canviant preu per verure fins a on poden arribar
+n'Indalecio va provant i sembla que ara s'i va r[apid. ella ha esborrat cache i altres coses
+els hi mostram com esborrar cache des navegador. semblava que sa versi'o no s-havia actualitzat
+Florinda demana per acoplar un escanner bt
+com funcionaria un escanner bt
+Gervasio: es podria localitzar producte amb bt i et localitza sa foto
+Tancredo: altra opci'o anar per ref. de prove"idor
+Florinda i fr. no estan d-acord en quin sistema 'es millor: escan bt o per ref. prove.
+Florinda: no pots fiar de que vingui ordenat ni agrupat, per lo que botar a article amb escanner no ser[a molt pr[actic
+millorar cercador per poder ser per codi ean sense haver d'har as carret
+fr. perque no surt tot es rutero, perqu[e nom'es hi ha un any. ara ja ser[a multejercici per es rutero
+un dto puntual, versus un dto que ja quedi gravat per tota sa temporada, normalment fins final d'any
+mantenir sa nota per saber que han de crear una tarifa
+Gervasio planteja que es pedidos quedin dins sf com a ped. client
+eliminar l'inies a zero que s-han creat per error
+ll> pendents de cobro, ja surten
+ll> usuaris limitats
+ir> explica m'es canvis que s-han fet
+ll> exportaci'o tarifes tamb'e hi ser[a
+ll> explica tema preparaci'o pedido com ser[a. en ll> vol saltar/se fase esperan\a i anar directament a magatzem
+tema pendents de servir, Florinda. magatzem tauletes.
+ir> tenim usuari master a sa web
+hauria de sortir stock i ubicaci'o per saber si ja no n-hi ha no cercar
+impressi'o no s-automatitzar[a, i s-ha d-imprimir a m[a. emprar filtros o colors per lo que hi ha pendent d-imprimir
+fr diu quins camps hi ha d-haver. inicialment tres tauletes
+evitar col#lisions, que no preparim mateixa comanda dos usuaris
+marcar pedidos descarregats i marcats que estan en proces, no acabats. lo seu ser[a un pedido cada vegada, no varis oberts per sa mateixa persona
+anar uns minuts enrere: sembla un problema no tenir multiempresa
+off topic: manifest per poer instal#lar link escrptori de windows
+segona fase, ll> saltar/nos sf per sa preparaci'o albarans. Ho veuen arriscat enguany. Es pot fer, per[o hi ha es perill de que no s-ababi emprant
+ja van a top de feina, si ara lis fem aquest canvi ser[a un problema. per tant no saltar'se sf
+aturar, no fer/ho per aquest any. tema matagzem posposat per es setembre, per[o preparaci'o comandes amb tauletes.
+magatzem va per 1- , 2-, 3- A\[o hauria de ser pr[actic que ja tenen molt moviment
+volen pedidos de clients per provar ells mateixos amb es super
+Gervasio> dividim albarans, ordenam per ubicaci'o i preparaci'o convencional
+super 2002 com a client
+personalitzar es logo i est[etica de La Divina Com[edia
+fr: demana quan estaran canvis, la setmana que ve diu en ll
+passw xxxxx tamb'e es nombre de sim. 9999 es s-altre passwd
+passw per clients 2 lletres poble + codi client: ciyyyy per exemple
+compet[encia. queda clar que cercarem una compensaci'o
+o;o O:O

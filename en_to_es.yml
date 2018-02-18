@@ -1,0 +1,48 @@
+---
+translations:
+  "accent agut e":
+    "'e": "é"
+  "accent agut i":
+    "'i": "í"
+  "accent agut o":
+    "'o": "ó"
+  "accent agut u":
+    "'u": "ú"
+  "article salat":
+    's\\-': "s'"
+  "article greu a":
+    "\\[a": "à"
+  "article greu e":
+    "\\[e": "è"
+  "article greu":
+    "\\[o": "ò"
+  "c trencada min":
+    "\\\\": "ç"
+  "C trencada maj":
+    "\\|": "Ç"
+  "n min":
+    "([aeiou]);([aeiou])": "\\1ñ\\2"
+  "n maj":
+    "([aeiou]):([aeiou])": "\\1Ñ\\2"
+  "s-ha":
+    "s-ha": "s'ha"
+  "n-hi":
+    "n-hi": "n'hi"
+  "ho":
+    "/ho": "-ho"
+  "hi":
+    "/hi": "-hi"
+  "#":
+    "#": "·"
+  "/":
+    "/": "-"
+  "_":
+    "_": "?"
+  "ï":
+    '"i': "ï"
+  "ú":
+    '"u': "ü"
+  "s-(vocal)":
+    's-([aeiou])': "s'\\1"
+  "d-(vocal)":
+    'd-([aeiou])': "d'\\1"
