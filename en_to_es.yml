@@ -48,3 +48,5 @@ translations:
     's-([aeiou])': "s'\\1"
   "d-(vocal)":
     'd-([aeiou])': "d'\\1"
+  "l-(vocal)":
+    'l-([aeiou])': "l'\\1"
